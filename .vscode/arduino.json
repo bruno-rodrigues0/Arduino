@@ -1,5 +1,7 @@
 {
     "board": "arduino:avr:uno",
     "programmer": "avrisp",
-    "sketch": "introduction\\introduction.ino"
+    "sketch": "introduction\\introduction.ino",
+    "intelliSenseGen": "global",
+    "port": "COM4"
 }
