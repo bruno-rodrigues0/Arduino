@@ -1,7 +1,6 @@
 {
+    "sketch": "semaforo\\semaforo.ino",
     "board": "arduino:avr:uno",
     "programmer": "avrisp",
-    "sketch": "button\\button.ino",
-    "intelliSenseGen": "global",
     "port": "COM6"
 }
