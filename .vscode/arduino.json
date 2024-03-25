@@ -1,7 +1,7 @@
 {
     "board": "arduino:avr:uno",
     "programmer": "avrisp",
-    "sketch": "semaforo\\semaforo.ino",
+    "sketch": "controller\\controller.ino",
     "intelliSenseGen": "global",
-    "port": "COM4"
+    "port": "COM6"
 }
