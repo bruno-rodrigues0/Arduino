@@ -1,5 +1,5 @@
 {
-    "sketch": "semaforo\\semaforo.ino",
+    "sketch": "sensor\\sensor.ino",
     "board": "arduino:avr:uno",
     "programmer": "avrisp",
     "port": "COM6"
