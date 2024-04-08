@@ -19,9 +19,9 @@ void loop(){
     float dist = hcsr04.distanceInMillimeters();
     
     Serial.println(dist);
-    
+
     digitalWrite(led, HIGH);
-    delay(50);
+    delay(80);
     digitalWrite(led, LOW);
     delay(300);
 }
