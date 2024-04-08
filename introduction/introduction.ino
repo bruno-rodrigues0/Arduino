@@ -1,4 +1,8 @@
 #include <hcsr04.h>
+#include <SoftwareSerial.h>
+
+SoftwareSerial btn_serial (11, 12);
+
 
 #define TRIG_P 2
 #define ECHO_P 3
